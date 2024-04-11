@@ -6,3 +6,4 @@ merklerex - a command-line technical analysis toolkit for the
 exchange platform
 
 
+OtoDecks - Load with projucer (JUCE)
